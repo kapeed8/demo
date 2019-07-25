@@ -18,6 +18,6 @@
     { "id": 7, "UserName": "User 7", "Password": "Password7" },
     { "id": 8, "UserName": "User 8", "Password": "Password8" },
     { "id": 9, "UserName": "User 9", "Password": "Password9" },
-    { "id": 11, "UserName": "User 10", "Password": "Password10" },
+    { "id": 11, "UserName": "User 10", "Password": "Password10" }
   ]
 }
