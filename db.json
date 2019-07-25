@@ -15,9 +15,6 @@
     { "id": 4, "UserName": "User 4", "Password": "Password4" },
     { "id": 5, "UserName": "User 5", "Password": "Password5" },
     { "id": 6, "UserName": "User 6", "Password": "Password6" },
-    { "id": 7, "UserName": "User 7", "Password": "Password7" },
-    { "id": 8, "UserName": "User 8", "Password": "Password8" },
-    { "id": 9, "UserName": "User 9", "Password": "Password9" },
-    { "id": 11, "UserName": "User 10", "Password": "Password10" }
+    { "id": 7, "UserName": "User 7", "Password": "Password7" }
   ]
 }
