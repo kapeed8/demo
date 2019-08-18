@@ -1,13 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
   "users": [
     { "id": 1, "UserName": "User 1", "Password": "Password1" },
     { "id": 2, "UserName": "User 2", "Password": "Password2" },
@@ -16,5 +7,9 @@
     { "id": 5, "UserName": "User 5", "Password": "Password5" },
     { "id": 6, "UserName": "User 6", "Password": "Password6" },
     { "id": 7, "UserName": "User 7", "Password": "Password7" }
+  ],
+  
+  "profile" :[
+    {"id": 1, "userName": "deepak", "email": "test@mail.com", "subscribes": false, "password": "1q1q", "confirmPassword": "1q1q", "address": { "state": "test", "city": "test", "pincode": "12121212" }, "alternateEmail": [ "test@mail.com" ], "alernateAddress": [ { "state": "test", "city": "test", "pincode": "12345" } ] }
   ]
 }
