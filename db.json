@@ -10,6 +10,7 @@
   ],
   
   "profile" :[
-    {"id": 1, "userName": "deepak", "email": "test@mail.com", "subscribes": false, "password": "1q1q", "confirmPassword": "1q1q", "address": { "state": "test", "city": "test", "pincode": "12121212" }, "alternateEmail": [ "test@mail.com" ], "alernateAddress": [ { "state": "test", "city": "test", "pincode": "12345" },{ "state": "test2", "city": "test2", "pincode": "22222" } ] }
+    {"id": 1, "userName": "deepak", "email": "test@mail.com", "subscribes": false, "password": "1q1q", "confirmPassword": "1q1q", "address": { "state": "test", "city": "test", "pincode": "12121212" }, "alternateEmail": [ "test@mail.com" ], "alernateAddress": [ { "state": "test", "city": "test", "pincode": "12345" },{ "state": "test2", "city": "test2", "pincode": "22222" } ] },
+    {"id": 2, "userName": "deepak", "email": "test@mail.com", "subscribes": false, "password": "1q1q", "confirmPassword": "1q1q", "address": { "state": "test", "city": "test", "pincode": "12121212" }, "alternateEmail": [ "test@mail.com" ], "alernateAddress": [ { "state": "test", "city": "test", "pincode": "12345" },{ "state": "test2", "city": "test2", "pincode": "22222" } ] }
   ]
 }
